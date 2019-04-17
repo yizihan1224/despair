@@ -16,5 +16,3 @@ ASF
 er
 rty
 -----
-uuu
-ttt
